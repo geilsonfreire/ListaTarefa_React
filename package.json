@@ -1,9 +1,9 @@
 {
+  "homepage": "http://geilsonfreire.github.io/ListaTarefa_React",
   "name": "lista-de-tarefa",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://geilsonfreire.github.io/ListaTarefa_React",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
