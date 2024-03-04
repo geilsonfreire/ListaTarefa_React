@@ -4,7 +4,7 @@
 <br>
 <br>
 
-# PROJETO: Lista de Tarefa
+# PROJETO: Lista de Tarefa&nbsp;&nbsp;&nbsp;&nbsp;  // Deploy:
 <div>
     <img src="src/assets/phone.png" alt="Mobile" width="30%"/>
     <img src="src/assets/mac-book.png" alt="MacBook" width="60%"/>

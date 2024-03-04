@@ -125,6 +125,7 @@ div.item:hover {
 div.item span {
     font-size: 1rem;
     color: #fff;
+    text-transform: capitalize;
 }
 
 div.item.completo {
