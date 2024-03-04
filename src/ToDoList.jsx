@@ -1,7 +1,9 @@
 import { CheckSquare, Plus, Square, Trash } from "react-bootstrap-icons";
 import React, { useState, useEffect } from "react";
 import img from "./assets/list.png";
-import "./ToDoList.css";
+import "./css/ToDoList.css";
+import "./css/MidiaQuery.css";
+
 
 function ToDoList() {
     const listStorage = localStorage.getItem('lista'); // Pega a lista do localStorage

@@ -187,7 +187,7 @@ button.DellAll {
 button.DellAll:hover {
     background: red;
     box-shadow: 0 0 10px #ff0000;
-    border-top: solid 1px #00ff26;
+    border-top: solid 4px #fff;
 }
 
 

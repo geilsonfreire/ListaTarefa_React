@@ -1,0 +1,252 @@
+/* Estilos para telas entre 320px a 480px de largura */
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+
+    /* Header */
+    h1 {
+        font-size: 2rem;
+    }
+
+    form input {
+        font-size: .85rem;
+    }
+
+    /* Button input*/
+    form button {
+        width: 20%;
+        right: -15px;
+    }
+
+}
+
+/* Estilos para telas entre 481px a 768px de largura */
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+
+    /* Header */
+    h1 {
+        font-size: 3rem;
+    }
+
+    form {
+        margin-bottom: 4rem;
+    }
+
+    form input {
+        height: 3rem;
+        font-size: 1.5rem;
+    }
+
+    /* Button input*/
+    form button {
+        height: 3.253rem;
+        right: -15px;
+    }
+
+    form button span.My-Icon-Add svg {
+        font-size: 2rem;
+    }
+
+    /* Lista de tarefa*/
+    div.item span {
+        font-size: 1.5rem;
+    }
+
+    /* Botão de Excluir */
+    div.item button {
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+
+    /* Button Dell All */
+    button.DellAll {
+        height: 3.253rem;
+        border-top: solid 4px #FFF;
+        font-size: 1.5rem;
+    }
+
+}
+
+/* Estilos para telas entre 769px a 1024px de largura */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+
+    /* Header */
+    h1 {
+        font-size: 4rem;
+    }
+
+    form {
+        margin-bottom: 4rem;
+    }
+
+    form input {
+        height: 3rem;
+        font-size: 1.5rem;
+    }
+
+    /* Button input*/
+    form button {
+        height: 3.253rem;
+        right: -15px;
+    }
+
+    form button span.My-Icon-Add svg {
+        font-size: 2rem;
+    }
+
+    /* Lista de tarefa*/
+    div.item span {
+        font-size: 1.5rem;
+    }
+
+    /* Botão de Excluir */
+    div.item button {
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+
+    /* Button Dell All */
+    button.DellAll {
+        height: 3.253rem;
+        border-top: solid 4px #FFF;
+        font-size: 1.5rem;
+    }
+
+}
+
+/* Estilos para telas entre 1025px a 1366px de largura */
+@media screen and (min-width: 1025px) and (max-width: 1366px) {
+
+    /* Header */
+    h1 {
+        font-size: 5rem;
+    }
+
+    form {
+        margin-bottom: 4rem;
+    }
+
+    form input {
+        height: 3rem;
+        font-size: 1.5rem;
+    }
+
+    /* Button input*/
+    form button {
+        height: 3.253rem;
+        right: -15px;
+    }
+
+    form button span.My-Icon-Add svg {
+        font-size: 2rem;
+    }
+
+    /* Lista de tarefa*/
+    div.item span {
+        font-size: 1.5rem;
+    }
+
+    /* Botão de Excluir */
+    div.item button {
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+
+    /* Button Dell All */
+    button.DellAll {
+        height: 3.253rem;
+        border-top: solid 4px #FFF;
+        font-size: 1.5rem;
+    }
+
+}
+
+/* Estilos para telas entre 1367px a 1920px de largura */
+@media screen and (min-width: 1367px) and (max-width: 1920px) {
+    
+        /* Header */
+        h1 {
+            font-size: 6rem;
+        }
+    
+        form {
+            margin-bottom: 4rem;
+        }
+    
+        form input {
+            height: 3rem;
+            font-size: 1.5rem;
+        }
+    
+        /* Button input*/
+        form button {
+            height: 3.253rem;
+            right: -15px;
+        }
+    
+        form button span.My-Icon-Add svg {
+            font-size: 2rem;
+        }
+    
+        /* Lista de tarefa*/
+        div.item span {
+            font-size: 1.5rem;
+        }
+    
+        /* Botão de Excluir */
+        div.item button {
+            width: 2.5rem;
+            height: 2.5rem;
+        }
+    
+        /* Button Dell All */
+        button.DellAll {
+            height: 3.253rem;
+            border-top: solid 4px #FFF;
+            font-size: 1.5rem;
+        }
+}
+
+/* Estilos para telas entre 1921px a 2560px de largura */
+@media screen and (min-width: 1921px) and (max-width: 2560px) {
+        
+            /* Header */
+            h1 {
+                font-size: 7rem;
+            }
+        
+            form {
+                margin-bottom: 4rem;
+            }
+        
+            form input {
+                height: 3rem;
+                font-size: 1.5rem;
+            }
+        
+            /* Button input*/
+            form button {
+                height: 3.253rem;
+                right: -15px;
+            }
+        
+            form button span.My-Icon-Add svg {
+                font-size: 2rem;
+            }
+        
+            /* Lista de tarefa*/
+            div.item span {
+                font-size: 1.5rem;
+            }
+        
+            /* Botão de Excluir */
+            div.item button {
+                width: 2.5rem;
+                height: 2.5rem;
+            }
+        
+            /* Button Dell All */
+            button.DellAll {
+                height: 3.253rem;
+                border-top: solid 4px #FFF;
+                font-size: 1.5rem;
+            }
+}
